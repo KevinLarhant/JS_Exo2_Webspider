@@ -1,21 +1,21 @@
 Webspider
 =================
 
-Requirements :
+<h2> Requirements :</h2>
 
 - install nodejs
-- run this 2 commands :
-    - npm init
-    - npm install request express lodash async winston --save
+- run this 2 commands :<br/>
+    <code>npm init</code> <br/>
+    <code>npm install request express lodash async winston --save</code>
 
 
-Lauch the app :
+<h2> Lauch the app :</h2>
 
 - Open a terminal
 - Navigate to the Webspider directory
 - type : 
-    node spider.js 'the_URL_you_want_to_crawl'
-  exemple :
-    node spider.js http://www.google.fr
+   <code>node spider.js 'the_URL_you_want_to_crawl'</code>
+  - exemple :
+    <code>node spider.js http://www.google.fr</code>
     
 enjoy !
